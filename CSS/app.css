@@ -1,14 +1,14 @@
 body {
-    background-color: azure;
+    background-color: #f6fffb;
     margin: 0;
 }
 
 nav#main-nav {
-    background-color: #8537c4;
+    background-color: #135E46;
 }
 
 #main-nav a{
-    background-color: #ae72de;
+    background-color: #478966;
     padding: 1em;
     display: inline-block;
     color: black;
@@ -19,6 +19,6 @@ nav#main-nav {
 }
 
 #main-nav a:hover {
-    background-color: #d3abf4;
+    background-color: #73A788;
     color: aliceblue;
 }
