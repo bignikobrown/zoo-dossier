@@ -1,5 +1,5 @@
 body {
-    background-color: #ffffff;
+    background-color: #f1ede8;
     margin: 0;
 }
 
@@ -30,22 +30,24 @@ nav#main-nav {
 img {
     border-radius: 15px;
     transition: all ease-in 150ms;
-    flex-wrap: wrap;
 }
 
 img:hover {
-    box-shadow: 5px 10px #407d33;
+    box-shadow: 5px 5px #407d33;
     transition: all ease 300ms;
 }
 
 ul {
-    background: #e9e9e9;
+    background: #d1bea8;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     border-radius: 15px;
-    
 }
 
 h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
@@ -81,3 +83,10 @@ html {
     scroll-behavior: smooth;
 }
 
+.row1 {
+    display: flex;
+}
+
+.row2 {
+    display: flex;
+}
